@@ -8,13 +8,12 @@ import {SmogCityItem} from "./smog-city-item";
 @Component({
   selector: 'smog-search',
   template: `
-    <section class="smog-search">
+    <div class="smog-search">
       <form (ngSubmit)="onSubmit(f)" #f="ngForm">
-        <label for="city">City</label>
-        <input ngControl="location" type="text" id="city" required>
-        <button type="submit">Add City</button>
+        <input ngControl="location" type="text" id="city" required placeholder="Wprowadź miasto...">
+        <button type="submit">Sprawdź</button>  
       </form>
-    </section>
+    </div>
   `,
   providers: [SmogService]
 })

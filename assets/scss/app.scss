@@ -1,6 +1,136 @@
 body {
-  padding: 32px;
-  margin: 32px;
+
+  background-image: url("/assets/images/background.png");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
   font-family: "Roboto", Arial, sans-serif;
   font-size: 16px;
 }
+
+header {
+  .header-class {
+    //background-color:rgba(238, 238, 238, 0.3);
+    //border-radius: 5px;
+    //position: center;
+    //box-shadow: 1px 1px 9px #ccc;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width: 60%;
+
+    H1 {
+      margin: 10px auto;
+      font-family: "the quiet scream" ;
+      text-align: center;
+      font-size: 100px;
+      color: #7c5c0e;
+    }
+    H2 {
+      font-family: "the quiet scream" ;
+      text-align: center;
+      font-size: 28px;
+      color: #7c5c0e;
+      line-height: 40px;
+    }
+
+
+  }
+
+}
+input[type=text] {
+  background-color:rgba(124, 92, 14, 0.6);
+  color: rgb(231, 231, 231);
+  height: 40px;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 5px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.smog-list {
+  margin: 20px auto;
+  width: 60%;
+}
+
+.smog-element {
+  //background: #eeeeee;
+  background-color:rgba(124, 92, 14, 0.6);
+  border-radius: 5px;
+
+  box-shadow: 1px 1px 9px #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.tooltip {
+  position: absolute;
+  padding: 3px;
+  font-size: 12px;
+  background-color: #eee;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+
+.info {
+  color: rgba(95, 95, 95, 0.51);
+  font-weight: bold;
+}
+
+
+.smog-search {
+  margin: 20px auto;
+  width: 40%;
+  text-align: center;
+
+  label {
+    font-weight: bold;
+    margin-right: 20px;
+  }
+
+  button, input {
+    font-size: inherit;
+    font-family: inherit;
+  }
+
+  input {
+    padding: 3px 5px;
+    outline: none;
+    width: 50%;
+    margin-right: 20px;
+  }
+
+  button {
+    background-color: rgba(124, 92, 14, 1);
+    padding: 14px 28px;
+    box-shadow: 1px 1px 5px #7c5c0e;
+    cursor: pointer;
+    color: rgb(231, 231, 231);
+    font-weight: bold;
+    font-size: 16px;
+    border: 1px solid #7c5c0e;
+    border-radius: 5px;
+  }
+
+  button:hover {
+    color: rgb(124, 92, 14);
+    background-color:  #f1c40f;
+
+  }
+}
+
+::placeholder {
+  color: rgb(231, 231, 231);
+  opacity: 1; /* Firefox */
+}
+
