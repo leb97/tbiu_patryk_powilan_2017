@@ -65,6 +65,7 @@ input[type=text] {
   //background: #eeeeee;
   background-color:rgba(124, 92, 14, 0.6);
   border-radius: 5px;
+  border: 1px solid #ccc;
 
   box-shadow: 1px 1px 9px #ccc;
   padding: 10px;
@@ -108,17 +109,19 @@ input[type=text] {
     outline: none;
     width: 50%;
     margin-right: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 9px #ccc;
   }
 
   button {
     background-color: rgba(124, 92, 14, 1);
     padding: 14px 28px;
-    box-shadow: 1px 1px 5px #7c5c0e;
+    box-shadow: 1px 1px 9px #ccc;
     cursor: pointer;
     color: rgb(231, 231, 231);
     font-weight: bold;
     font-size: 16px;
-    border: 1px solid #7c5c0e;
+    border: 1px solid #ccc;
     border-radius: 5px;
   }
 

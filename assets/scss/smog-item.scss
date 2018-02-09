@@ -3,57 +3,57 @@
   .col-1 {
     all: revert;
     display: inline-block;
-    width: 40%;
+    width: 30%;
     color: rgb(231, 231, 231);
     position: relative;
     //top: -70px;
     //left: 120px;
     vertical-align: middle;
-    text-align: center;
-    .col-1 h3 {
+    text-align: right;
+    h3 {
       //margin: 0 0 10% 0;
+      margin-top: 10px;
+      margin-bottom: 1%;
       padding: 0;
-      font-size: 80px;
+      font-size: 40px;
       color: rgb(231, 231, 231);
     }
-
-
+    p {
+      margin-top: 1%;
+    }
   }
-
-
-
   .col-2 {
     all: revert;
     display: inline-block;
-    width: 50%;
+
+    width: 60%;
+
     vertical-align: middle;
     text-align: right;
     color: rgb(231, 231, 231);
+    .info {
+      color: rgb(231, 231, 231);
+      font-size: 22px;
+    }
   }
-
-  .info {
-    color: rgb(231, 231, 231);
-    font-size: 22px;
+  .col-3
+  {
+    all: revert;
+    display: inline-block;
+    width: 5%;
+    text-align: right;
+    vertical-align: top;
+    position: absolute;
+    .close{
+      font-size: 14px;
+      color: rgb(231, 231, 231);
+    }
+    .close:hover {
+      color: black;
+      font-weight: bold;
+      cursor: pointer;
+    }
   }
-
-  .close{
-    position: relative;
-    top: -40px;
-    right: -90px;
-    //all: revert;
-    //display: flow;
-    //top: 5px;
-    //right: 10px;
-    font-size: 14px;
-    color: rgb(231, 231, 231);
-  }
-  .close:hover {
-    color: black;
-    font-weight: bold;
-    cursor: pointer;
-  }
-
-
 }
 
 

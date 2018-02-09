@@ -4,6 +4,6 @@ export const CITIES: SmogCityItem[] = [
   // new SmogCityItem(114, 'Wrocław', 'DOLNOŚLĄSKIE')
 ];
 export const SMOG_INTEMS: SmogItem[] = [
-  // new SmogItem('Warszawa', 'Mazowieckie', 'Ciężkie'),
-  // new SmogItem('Lodz', 'Lodzkie', 'Umiarskowane'),
+  // new SmogItem('Warszawa', 'Mazowieckie', 'Zły'),
+  // new SmogItem('Lodz', 'Lodzkie', 'Umiarkowany'),
 ];

@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e4beff7-5c0a-45e6-925f-04a4e25bd3bd" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/the_quiet_scream.ttf" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/assets/scss/app.scss" afterPath="$PROJECT_DIR$/assets/scss/app.scss" />
       <change beforePath="$PROJECT_DIR$/assets/scss/smog-item.scss" afterPath="$PROJECT_DIR$/assets/scss/smog-item.scss" />
-      <change beforePath="$PROJECT_DIR$/dev/app.component.ts" afterPath="$PROJECT_DIR$/dev/app.component.ts" />
-      <change beforePath="$PROJECT_DIR$/dev/boot.ts" afterPath="$PROJECT_DIR$/dev/boot.ts" />
-      <change beforePath="$PROJECT_DIR$/dev/smog/smog-city-item.ts" afterPath="$PROJECT_DIR$/dev/smog/smog-city-item.ts" />
-      <change beforePath="$PROJECT_DIR$/dev/smog/smog-city.service.ts" afterPath="$PROJECT_DIR$/dev/smog/smog-city.service.ts" />
       <change beforePath="$PROJECT_DIR$/dev/smog/smog-item.component.ts" afterPath="$PROJECT_DIR$/dev/smog/smog-item.component.ts" />
-      <change beforePath="$PROJECT_DIR$/dev/smog/smog-item.ts" afterPath="$PROJECT_DIR$/dev/smog/smog-item.ts" />
-      <change beforePath="$PROJECT_DIR$/dev/smog/smog-list.component.ts" afterPath="$PROJECT_DIR$/dev/smog/smog-list.component.ts" />
-      <change beforePath="$PROJECT_DIR$/dev/smog/smog-search.component.ts" afterPath="$PROJECT_DIR$/dev/smog/smog-search.component.ts" />
       <change beforePath="$PROJECT_DIR$/dev/smog/smog.data.ts" afterPath="$PROJECT_DIR$/dev/smog/smog.data.ts" />
-      <change beforePath="$PROJECT_DIR$/dev/smog/smog.service.ts" afterPath="$PROJECT_DIR$/dev/smog/smog.service.ts" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,18 +20,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="smog-search.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/smog/smog-search.component.ts">
+      <file leaf-file-name="smog-item.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/scss/smog-item.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="78" lean-forward="false" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="78" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-                <marker date="1518124769207" expanded="true" signature="335:557" ph="..." />
-                <marker date="1518124769207" expanded="true" signature="335:560" ph="..." />
-                <marker date="1518124769207" expanded="true" signature="385:549" ph="..." />
-                <marker date="1518124769207" expanded="true" signature="386:549" ph="..." />
-              </folding>
+            <state relative-caret-position="287">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -49,43 +33,34 @@
       <file leaf-file-name="smog-item.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/smog/smog-item.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="275">
+              <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
               <folding>
-                <marker date="1518130676706" expanded="true" signature="216:555" ph="..." />
-                <marker date="1518130676706" expanded="true" signature="242:352" ph="..." />
-                <marker date="1518130676706" expanded="true" signature="378:461" ph="..." />
-                <marker date="1518130676706" expanded="true" signature="463:542" ph="..." />
+                <marker date="1518208691442" expanded="true" signature="216:613" ph="..." />
+                <marker date="1518208691442" expanded="true" signature="242:352" ph="..." />
+                <marker date="1518208691442" expanded="true" signature="378:471" ph="..." />
+                <marker date="1518208691442" expanded="true" signature="497:591" ph="..." />
+                <marker date="1518208691442" expanded="true" signature="593:600" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/scss/app.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="smog-item.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/scss/smog-item.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="smog-item.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/smog/smog-item.ts">
+      <file leaf-file-name="smog.data.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/smog/smog.data.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/scss/app.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -123,16 +98,16 @@
         <option value="$PROJECT_DIR$/dev/smog/smog-list.component.ts" />
         <option value="$PROJECT_DIR$/dev/boot.ts" />
         <option value="$PROJECT_DIR$/dev/smog/smog-city.service.ts" />
-        <option value="$PROJECT_DIR$/dev/smog/smog.data.ts" />
         <option value="$PROJECT_DIR$/dev/smog/smog.service.ts" />
         <option value="$PROJECT_DIR$/app/smog/smog-search.component.js" />
         <option value="$PROJECT_DIR$/assets/scss/sidebar.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/dev/smog/smog-search.component.ts" />
         <option value="$PROJECT_DIR$/dev/app.component.ts" />
-        <option value="$PROJECT_DIR$/assets/scss/app.scss" />
         <option value="$PROJECT_DIR$/dev/smog/smog-item.component.ts" />
+        <option value="$PROJECT_DIR$/dev/smog/smog.data.ts" />
         <option value="$PROJECT_DIR$/assets/scss/smog-item.scss" />
+        <option value="$PROJECT_DIR$/assets/scss/app.scss" />
       </list>
     </option>
   </component>
@@ -146,8 +121,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-252" />
-    <option name="y" value="-17" />
+    <option name="x" value="14" />
+    <option name="y" value="79" />
     <option name="width" value="1932" />
     <option name="height" value="871" />
   </component>
@@ -213,6 +188,17 @@
               <item name="dev" type="462c0819:PsiDirectoryNode" />
               <item name="smog" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tbiu_patryk_powilan_2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tbiu_patryk_powilan_2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tbiu_patryk_powilan_2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tbiu_patryk_powilan_2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -225,6 +211,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="debugger.stepping" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -266,7 +253,7 @@
       <updated>1517871248518</updated>
       <workItem from="1517871249875" duration="34972000" />
       <workItem from="1518105570852" duration="6267000" />
-      <workItem from="1518128530163" duration="3271000" />
+      <workItem from="1518128530163" duration="9274000" />
     </task>
     <task id="LOCAL-00001" summary="wszystko działa, nic nie wygląda">
       <created>1518044837168</created>
@@ -279,29 +266,38 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44510000" />
+    <option name="totallyTimeSpent" value="50513000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12374934" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3259177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32258064" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.68876404" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -316,7 +312,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="wszystko działa, nic nie wygląda" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -325,7 +327,7 @@
         <state relative-caret-position="250">
           <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="false" />
             <marker date="1518124769207" expanded="true" signature="335:557" ph="..." />
             <marker date="1518124769207" expanded="true" signature="335:560" ph="..." />
             <marker date="1518124769207" expanded="true" signature="385:549" ph="..." />
@@ -339,10 +341,11 @@
         <state relative-caret-position="350">
           <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding>
-            <marker date="1518130676706" expanded="true" signature="216:555" ph="..." />
-            <marker date="1518130676706" expanded="true" signature="242:352" ph="..." />
-            <marker date="1518130676706" expanded="true" signature="378:461" ph="..." />
-            <marker date="1518130676706" expanded="true" signature="463:542" ph="..." />
+            <marker date="1518208691442" expanded="true" signature="216:613" ph="..." />
+            <marker date="1518208691442" expanded="true" signature="242:352" ph="..." />
+            <marker date="1518208691442" expanded="true" signature="378:471" ph="..." />
+            <marker date="1518208691442" expanded="true" signature="497:591" ph="..." />
+            <marker date="1518208691442" expanded="true" signature="593:600" ph="..." />
           </folding>
         </state>
       </provider>
@@ -387,7 +390,7 @@
         <state relative-caret-position="100">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="false" />
             <marker date="1518124769207" expanded="true" signature="335:557" ph="..." />
             <marker date="1518124769207" expanded="true" signature="335:560" ph="..." />
             <marker date="1518124769207" expanded="true" signature="385:549" ph="..." />
@@ -401,10 +404,11 @@
         <state relative-caret-position="350">
           <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding>
-            <marker date="1518130676706" expanded="true" signature="216:555" ph="..." />
-            <marker date="1518130676706" expanded="true" signature="242:352" ph="..." />
-            <marker date="1518130676706" expanded="true" signature="378:461" ph="..." />
-            <marker date="1518130676706" expanded="true" signature="463:542" ph="..." />
+            <marker date="1518208691442" expanded="true" signature="216:613" ph="..." />
+            <marker date="1518208691442" expanded="true" signature="242:352" ph="..." />
+            <marker date="1518208691442" expanded="true" signature="378:471" ph="..." />
+            <marker date="1518208691442" expanded="true" signature="497:591" ph="..." />
+            <marker date="1518208691442" expanded="true" signature="593:600" ph="..." />
           </folding>
         </state>
       </provider>
@@ -420,6 +424,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -488,36 +493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/smog/smog-city-item.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/smog/smog.data.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/boot.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/smog-item.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/smog/smog.service.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -564,31 +539,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/smog/smog-search.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="78" lean-forward="false" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="78" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-            <marker date="1518124769207" expanded="true" signature="335:557" ph="..." />
-            <marker date="1518124769207" expanded="true" signature="335:560" ph="..." />
-            <marker date="1518124769207" expanded="true" signature="385:549" ph="..." />
-            <marker date="1518124769207" expanded="true" signature="386:549" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -603,6 +557,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="44" lean-forward="true" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/smog-item.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/smog/smog-city-item.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/boot.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/smog/smog-search.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+            <marker date="1518124769207" expanded="true" signature="335:557" ph="..." />
+            <marker date="1518124769207" expanded="true" signature="335:560" ph="..." />
+            <marker date="1518124769207" expanded="true" signature="385:549" ph="..." />
+            <marker date="1518124769207" expanded="true" signature="386:549" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dev/smog/smog-item.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -611,31 +611,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/app.scss">
+    <entry file="file://$PROJECT_DIR$/dev/smog/smog-item.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="275">
+          <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <marker date="1518208691442" expanded="true" signature="216:613" ph="..." />
+            <marker date="1518208691442" expanded="true" signature="242:352" ph="..." />
+            <marker date="1518208691442" expanded="true" signature="378:471" ph="..." />
+            <marker date="1518208691442" expanded="true" signature="497:591" ph="..." />
+            <marker date="1518208691442" expanded="true" signature="593:600" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/smog/smog-item.component.ts">
+    <entry file="file://$PROJECT_DIR$/dev/smog/smog.data.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <marker date="1518130676706" expanded="true" signature="216:555" ph="..." />
-            <marker date="1518130676706" expanded="true" signature="242:352" ph="..." />
-            <marker date="1518130676706" expanded="true" signature="378:461" ph="..." />
-            <marker date="1518130676706" expanded="true" signature="463:542" ph="..." />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/scss/smog-item.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        <state relative-caret-position="287">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
           <folding />
         </state>
       </provider>

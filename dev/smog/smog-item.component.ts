@@ -11,10 +11,13 @@ import {SmogService} from "./smog.service";
         <p class="province">{{ smogItem.province }}</p>
       </div>
       <div class="col-2">
-        <span class="info">stan powietrza: {{ smogItem.info }}</span>
+        <span class="info">indeks jakości powietrza: {{ smogItem.info }}</span>
       </div>
-      <span class="close" (click)="onCloseSmogitem($event, smogItem)">X</span>
-    </article>
+      <div class="col-3">
+        <span class="close" (click)="onCloseSmogitem($event, smogItem)">X</span>
+      </div>
+      
+    </article> 
   
   `,
   styleUrls: ['src/css/smog-item.css'],
